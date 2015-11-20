@@ -5,3 +5,7 @@ You may also wish to run git status after you have created the file. You should 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 When you've updated your document, click  and Caroline will go over how to commit the changes you’ve added to the staging area.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You may also want to commit your changes to the file. When you're ready to move on, click "Next" and Sarah will go over a concept called branching.
